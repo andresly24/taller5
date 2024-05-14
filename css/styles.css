@@ -1,0 +1,17 @@
+li {
+    display: block;
+    padding: 30px;
+}
+
+
+form {
+    border: 2px solid #ff9f72;
+    padding: 10px;
+    text-align: left;
+
+}
+
+h2 {
+    padding: 10px;
+}
+
